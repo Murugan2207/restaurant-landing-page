@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import Logo from '../Assets/Logo.svg';
 import { BsCart2 } from 'react-icons/bs';
 import { AiOutlineBars } from 'react-icons/ai';
 import {
