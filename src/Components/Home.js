@@ -25,7 +25,7 @@ Welcome to "Chef's Shortcut Haven" – where our seasoned chefs handle all the n
           </button>
         </div>
         <div className='home-image-container'>
-          <img src={BannerImage} alt='Banner image' />
+          <img src={BannerImage} alt='Banner' />
         </div>
       </div>
     </div>
